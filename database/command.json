@@ -1,0 +1,30 @@
+[
+  {
+    "nama": "#menu",
+    "count": 5
+  },
+  {
+    "nama": "#dashboard",
+    "count": 1
+  },
+  {
+    "nama": "#owner",
+    "count": 1
+  },
+  {
+    "nama": "#infobot",
+    "count": 1
+  },
+  {
+    "nama": "#donate",
+    "count": 4
+  },
+  {
+    "nama": "#addsewa",
+    "count": 1
+  },
+  {
+    "nama": "#setwelcome",
+    "count": 1
+  }
+]
